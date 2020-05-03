@@ -56,7 +56,7 @@ header{
 }
 
 body{
-	background-image: linear-gradient(to bottom, rgba(48,56,83,0) 40%, #303853 60%, #303853 100%),url('/pictures/back.jpg');
+	background-image: linear-gradient(to bottom, rgba(48,56,83,0) 40%, #303853 60%, #303853 100%),url('pictures/back.jpg');
     background-position-x: 100%, 100%;
     background-position-y: 0px, -200px;
     background-size: 100%, 100%;
@@ -200,7 +200,7 @@ article{
 }
 
 .sty_art1{
-	background-image: url('/pictures/back2.png');
+	background-image: url('pictures/back2.png');
 	background-repeat: no-repeat;
 	background-size: contain;
 	display: grid;
@@ -261,7 +261,7 @@ h4{
 }
 
 section{
-	background-image: url('/pictures/back3.jpg');
+	background-image: url('pictures/back3.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 5em 0;
